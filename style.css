@@ -3,7 +3,6 @@ body {
     font-size: 25pt;
 }
 
-
 header {
     text-align: center;
     color: white;
@@ -28,3 +27,20 @@ p.case2 {
     box-shadow: 5px 8px 31px 29px rgba(102, 174, 229, 1);
 }
 
+p.case3 {
+    text-align: center;
+    height: 95px;
+    color: lightpink;
+    margin: 150px;
+    background-size: 150px;
+    background-image: url(cat.jpg);
+}
+
+p.case4 {
+    text-align: center;
+    height: 95px;
+    color: lightpink;
+    margin: 150px;
+    background-size: 150px;
+    background-image: url(cat.jpg);
+}
